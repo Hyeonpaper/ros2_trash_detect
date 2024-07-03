@@ -1,1 +1,1 @@
-+ using https://github.com/ultralytics/yolov5
++ use for training https://github.com/ultralytics/yolov5
